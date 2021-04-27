@@ -9,4 +9,7 @@ In order to use it:
 2. Add the forked repository  to your Cloudflare Pages account (authorize Pages to access the repository). 
 3. In your project on cloudflare pages, select the forked repository. 
 4. Deploy the repository, specifying Hugo as the Framework Preset. This will auto-fill the build command and output directory.
-5. Deploy!
+5. Specify Environment Variable as Hugo version 0.82.1 or higher: HUGO_VERSION = 0.82.1  
+6. Deploy!
+
+
